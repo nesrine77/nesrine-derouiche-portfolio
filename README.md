@@ -21,7 +21,7 @@ This repository serves as a **central hub** for:
 - **Code Samples**: Real-world examples of her work in **web and mobile development**.
 - **Documentation**: Insights into her development process and the technologies she excels in.
 
-Explore the live portfolio [here](#) *(add link to live portfolio when available)*.
+Explore the live portfolio [here](https://nesrine77.github.io/nesrine-derouiche-portfolio/).
 
 ---
 
