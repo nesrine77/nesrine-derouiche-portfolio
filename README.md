@@ -101,7 +101,7 @@ Nesrine is always open to new opportunities, collaborations, and challenges. Fee
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nesrine-username/portfolio-repo.git
+   git clone https://github.com/nesrine77/nesrine-derouiche-portfolio.git
 2. Open the project locally and explore the code.
 3. Contributions are welcome! Feel free to submit a pull request for improvements.
 
